@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FactoryCraft",
+  "name": "FactoryCraft",
+  "description": "FactoryCraft is a mod based around automation.",
+  "version": "1.0",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Machine_Galaxy"],
+  "credits": "Thanks for downloading my mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
